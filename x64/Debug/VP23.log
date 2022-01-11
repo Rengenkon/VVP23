@@ -1,0 +1,3 @@
+﻿  VP23.cpp
+C:\Users\Ren\Desktop\Лабы\Введение в программирование\VP23\VP23.cpp(93,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  VP23.vcxproj -> C:\Users\Ren\Desktop\Лабы\Введение в программирование\VP23\x64\Debug\VP23.exe
